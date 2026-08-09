@@ -18,7 +18,6 @@ Current version: **1.0.0**
 
 - Workers & Resources: Soviet Republic v1.1.1.7.
 - [TesmioLoader](https://steamcommunity.com/sharedfiles/filedetails/?id=3773169177), API 3.
-- Steam Workshop item `3779397743`.
 
 ## Installation
 
@@ -27,7 +26,7 @@ Subscribe to the Workshop item so its toolbar asset and plugin files are downloa
 Then copy both files from:
 
 ```text
-Steam\steamapps\workshop\content\784150\3779397743\plugins\
+Steam\steamapps\workshop\content\784150\3780739284\plugins\
 ```
 
 into:
