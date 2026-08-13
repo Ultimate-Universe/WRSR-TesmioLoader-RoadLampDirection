@@ -1,9 +1,12 @@
 # Changelog
 
-## 1.0.0
+## 1.1.0 — 2026-08-13
 
-- Initial public release.
-- Added the Road Lamp Direction editor tool for changing the lamp side of existing lit roads.
-- Preserved normal two-way traffic state and road behaviour.
-- Added a clean green road preview without one-way direction arrows.
-- Added checked hook installation, bounded diagnostics and safe failure on unsupported executable layouts.
+- Updated both native plugins for WRSR v1.1.1.9.
+- Updated the TesmioLoader entry points and initialization checks for API 4.
+- Relocated all checked core game targets to their v1.1.1.9 addresses.
+- Relocated the live frame-queue preview hook while retaining the existing queue globals.
+- Restored toolbar registration and the Road Lamp Direction button on the current game build.
+- Preserved the existing lamp-side commit behaviour and arrow-free green preview.
+- Rebuilt the release metadata and PE checksums as version 1.1.0.
+- No new gameplay functionality or save-data changes.
